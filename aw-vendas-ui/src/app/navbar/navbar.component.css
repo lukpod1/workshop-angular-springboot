@@ -1,0 +1,15 @@
+header .topo {
+    background-color: #1e94d2;
+    width: 100%;
+    padding: 10px 0;
+}
+
+img.logo {
+  display: block;
+  margin: 0 auto;
+}
+
+h1 {
+  color: white;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
