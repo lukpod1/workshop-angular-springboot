@@ -1,0 +1,9 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "aw-vendas-ui/package.json"
+      ]
+    }
+  }
+}
